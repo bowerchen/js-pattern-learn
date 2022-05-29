@@ -1,5 +1,5 @@
 /**
- * 抽象工厂模式
+ * 抽象工厂模式：通过对类的工厂抽象使其业务用于对产品类簇的创建，而不负责某一类产品的实例
  */
 
 var VehicleFactory = function(subType, superType) {

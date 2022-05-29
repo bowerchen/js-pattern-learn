@@ -1,7 +1,7 @@
 const { inheritPrototype } = require('../inherit') 
 
 /**
- * 组合模式
+ * 组合模式 - 部分-整体模式。 将对象组合成树性结构以表示"部分整体"的层次结构。组合模式使得用户对单个对象和组合对象的使用具有一致性
  */
 
 var News = function() {
